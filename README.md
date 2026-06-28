@@ -1,4 +1,4 @@
-# StreamingApp-infra
+# Capstone Project
 
 Team Members:
 
